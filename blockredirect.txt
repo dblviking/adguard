@@ -1,5 +1,5 @@
 !
-! Title: AdGuard DNS filter
+! Title: AdGuard Redirect block filter
 ! Description: Block annoying redirect sites.
 ! 
 ||chrif8kdstie.com^
