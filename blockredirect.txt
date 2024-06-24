@@ -1,0 +1,20 @@
+!
+! Title: AdGuard DNS filter
+! Description: Block annoying redirect sites.
+! 
+||chrif8kdstie.com^
+||7cc70.com^
+||jame3s67jo9yc4e.com^
+||a2nn5eri7ce.com^
+||mage98rquewz.com^
+||dowtyler.com^
+||chimamanndgaocozmi.com^
+||kuhxhoanlf.com^
+||avtwatwtuozt.com^
+||mitowdcagos.com^
+||apzgcipacpu.com^
+||nrycawxijfug.com^
+||nukaqwaptwu.com^
+||saracsoxcpa.com^
+||varorlowjo.com^
+||swoogvcaqok.com^
