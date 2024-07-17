@@ -20,3 +20,6 @@
 ||swoogvcaqok.com^
 ||constructpreachystopper.com^
 ||ovmktyoxglta.com^
+.com/afu.php?zoneid=$doc
+/afu.php?$document
+.php?zoneid=
