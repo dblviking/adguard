@@ -22,6 +22,4 @@
 ||ovmktyoxglta.com^
 .com/afu.php?zoneid=$doc
 /afu.php?$document
-.php?zoneid=
-||bunkr.*^$popup,$third-party,$important
-en/lixa/abq?$document
+||*/magic/pure-magic-*.js
